@@ -55,7 +55,7 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](lU.png)
+![](lU.png)
 ![](LU1.png)
 
 ## Result:
